@@ -1,0 +1,23 @@
+{
+  "name": "LORDCOIN",
+  "symbol": "LORD",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/LordNasdaq/token-assets/main/lordcoin/logo.png",
+  "seller_fee_basis_points": 0,
+  "description": "LORDCOIN - The most legendary meme coin on Solana.",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/LordNasdaq/token-assets/main/lordcoin/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3gML3tJbvkg5DdeCidcKYqG453e3H7fHBiiyXhLFyV7J",
+        "share": 100
+      }
+    ]
+  }
+}
